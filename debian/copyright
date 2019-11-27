@@ -1,0 +1,60 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: ubuntucinnamon-wallpapers
+Source: https://github.com/ubuntucinnamonremix/ubuntucinnamon-wallpapers
+
+Files: *
+Copyright:
+ 2019 Joshua Peisach <ubuntucinnamonremix7@gmail.com>
+License: GPL-3+
+
+Files: debian/*
+Copyright:
+ 2019 Joshua Peisach <ubuntucinnamonremix7@gmail.com>
+License: GPL-2+
+
+Files: ubuntucinnamon/4th_Of_July_Spectacular_by_Joshua_Peisach.jpg, ubuntucinnamon/Bushes_By_The_Ocean_by_Joshua_Peisach.jpg, ubuntucinnamon/Golden_Rocks_Of_Magic_by_Joshua_Peisach.jpg, ubuntucinnamon/Greenwood_Lake_by_Joshua_Peisach.jpg, ubuntucinnamon/NYC_Skyline_Over_The_Hudson_by_Joshua_Peisach.jpg, ubuntucinnamon/Sculpture_Of_Bones_by_Joshua_Peisach.jpg, ubuntucinnamon/Sunset_On_The_Boardwalk_by_Joshua_Peisach.jpg
+Copyright:
+ 2019 Joshua Peisach <ubuntucinnamonremix7@gmail.com>
+License: GPL-3+
+
+Files: ubuntucinnamon/Brick_Wall_by_Roman_Vizer.jpg, ubuntucinnamon/Cinnamon_by_Roman_Vizer.jpg, ubuntucinnamon/Narrow_Forest_Passage_by_Roman_Vizer.jpg, ubuntucinnamon/Ukraine_Forest_by_Roman_Vizer.jpg
+Copyright:
+ 2019 Roman Vizer <wild.seager@gmail.com>
+License: GPL-3+
+
+Files: ubuntucinnamon/Santorini_Bliss_by_Jordan_Waddon.jpg
+Copyright:
+ 2019 Jordan Waddon <jordanwaddon98@gmail.com>
+License: GPL-3+
+
+Files: ubuntucinnamon/ubuntu_cinnamon_eoan_ermine.jpg
+Copyright:
+ 2019 Erich Eickmeyer <erich@ericheickmeyer.com>
+License: GPL-3+
+
+LICENSE: GPL-2+
+ This program is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2, or (at your option)
+ any later version.
+ .
+ This program is distributed in the hope that it will be useful, but
+ WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ GNU General Public License for more details.
+ .
+ On Debian systems, the complete text of version 2 of the GNU General
+ Public License can be found in '/usr/share/common-licenses/GPL-2'.
+
+LICENSE: GPL-3+
+ This program is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License version 3
+ as published by the Free Software Foundation.
+ .
+ This program is distributed in the hope that it will be useful, but
+ WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ GNU General Public License for more details.
+ .
+ On Debian systems, the complete text of version 3 of the GNU General
+ Public License can be found in '/usr/share/common-licenses/GPL-3'.
