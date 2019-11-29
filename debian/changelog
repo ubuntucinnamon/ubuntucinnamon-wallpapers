@@ -1,0 +1,30 @@
+ubuntucinnamon-wallpapers (0.4-1) eoan; urgency=medium
+
+  * Fixed directory paths in ubuntucinnamon-wallpapers.xml
+  * /usr/share/backgrounds/file.jpg to
+  * /usr/share/backgrounds/ubuntucinnamon/file.jpg
+  * Solves Issue #4 (Fix XML)
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 29 Nov 2019 12:28:43 -0500
+
+ubuntucinnamon-wallpapers (0.3-1) eoan; urgency=medium
+
+  * Fixed lintian errors found while building v0.2
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 27 Nov 2019 15:51:45 -0500
+
+ubuntucinnamon-wallpapers (0.2-1) eoan; urgency=medium
+
+  * Made images format JPG
+  * Made XML file for gnome-properties
+  * Created separate copyright licenses for each image
+  * Fixed copyright timezone due to EDT to EST (v0.1-1)
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 27 Nov 2019 15:43:10 -0500
+
+ubuntucinnamon-wallpapers (0.1-1) eoan; urgency=medium
+
+  [ Joshua Peisach ]
+  * Initial release
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 15 Nov 2019 06:54:29 -0500
