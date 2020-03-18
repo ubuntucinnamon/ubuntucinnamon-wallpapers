@@ -1,2 +1,6 @@
-ubuntucinnamon /usr/share/backgrounds
-ubuntucinnamon-wallpapers.xml /usr/share/gnome-background-properties
+usr/share/backgrounds/ubuntucinnamon/focal/ubuntu_cinnamon_focal_fossa.jpg
+usr/share/backgrounds/ubuntucinnamon/Ubuntu_Cinnamon.jpg
+usr/share/backgrounds/ubuntucinnamon/Ubuntu_Cinnamon-2.jpg
+usr/share/backgrounds/ubuntucinnamon/Ubuntu_Cinnamon_Gray.jpg
+usr/share/backgrounds/ubuntucinnamon/Ubuntu_Cinnamon_Ubuntu.jpg
+usr/share/gnome-background-properties/ubuntucinnamon-wallpapers.xml
