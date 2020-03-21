@@ -146,38 +146,6 @@
      <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-     <name>Ubuntu Cinnamon</name>
-     <filename>/usr/share/backgrounds/ubuntucinnamon/Ubuntu_Cinnamon.jpg</filename>
-     <options>zoom</options>
-     <pcolor>#000000</pcolor>
-     <scolor>#000000</scolor>
-     <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-     <name>Ubuntu Cinnamon (darker and glowier)</name>
-     <filename>/usr/share/backgrounds/ubuntucinnamon/Ubuntu_Cinnamon_2.jpg</filename>
-     <options>zoom</options>
-     <pcolor>#000000</pcolor>
-     <scolor>#000000</scolor>
-     <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-     <name>Ubuntu Cinnamon Gray</name>
-     <filename>/usr/share/backgrounds/ubuntucinnamon/Ubuntu_Cinnamon_Gray.jpg</filename>
-     <options>zoom</options>
-     <pcolor>#000000</pcolor>
-     <scolor>#000000</scolor>
-     <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-     <name>Ubuntu Cinnamon Ubuntu</name>
-     <filename>/usr/share/backgrounds/ubuntucinnamon/Ubuntu_Cinnamon_Ubuntu.jpg</filename>
-     <options>zoom</options>
-     <pcolor>#000000</pcolor>
-     <scolor>#000000</scolor>
-     <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
      <name>Ubuntu Cinnamon 20.04 Focal Fossa</name>
      <filename>/usr/share/backgrounds/ubuntucinnamon/focal/ubuntu_cinnamon_focal_fossa.jpg</filename>
      <options>zoom</options>

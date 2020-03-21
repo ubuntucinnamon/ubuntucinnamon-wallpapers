@@ -22,7 +22,7 @@ Description: Elegant and modern wallpapers for the Ubuntu Cinnamon desktop
 
 Package: ubuntucinnamon-wallpapers-eoan
 Architecture: all
-Suggests: ubuntucinnamon-wallpapers-focal
+Suggests: ubuntucinnamon-wallpapers-focal, ubuntucinnamon-wallpapers
 Depends: ${misc:Depends}
 Description: Elegant and modern wallpapers for the Ubuntu Cinnamon desktop
  The Ubuntu Cinnamon 19.10 Eoan Ermine Wallpapers are elegant, modern
@@ -34,6 +34,7 @@ Description: Elegant and modern wallpapers for the Ubuntu Cinnamon desktop
 Package: ubuntucinnamon-wallpapers-focal
 Architecture: all
 Depends: ${misc:Depends}
+Recommends: ubuntucinnamon-wallpapers
 Description: Elegant and modern wallpapers for the Ubuntu Cinnamon desktop
  The Ubuntu Cinnamon 20.04 Focal Fossa Wallpapers are elegant, modern
  wallpapers that are easily able to fit the needs for your perfect
