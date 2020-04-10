@@ -1,3 +1,10 @@
+ubuntucinnamon-wallpapers (20.04.1-2) focal; urgency=medium
+
+  * Fix colorization of default wallpaper (focal)
+  * Add lah7 to copyright comment for helping me colorize better
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 10 Apr 2020 10:12:12 -0500
+
 ubuntucinnamon-wallpapers (20.04.1-1) focal; urgency=medium
 
   * Focal wallpapers do not include UC wallpapers.
