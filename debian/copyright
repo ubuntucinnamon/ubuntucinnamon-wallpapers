@@ -4,12 +4,12 @@ Source: https://github.com/Ubuntu-Cinnamon-Remix/ubuntucinnamon-wallpapers
 
 Files: *
 Copyright:
- 2019 - 2020 Joshua Peisach <ubuntucinnamonremix7@gmail.com>
+ 2019 - 2020 Joshua Peisach <itzswirlz2020@outlook.com>
 License: GPL-3+
 
 Files: debian/*
 Copyright:
- 2019 - 2020 Joshua Peisach <ubuntucinnamonremix7@gmail.com>
+ 2019 - 2020 Joshua Peisach <itzswirlz2020@outlook.com>
 License: GPL-2+
 
 Files: ubuntucinnamon/Ubuntu_Cinnamon.jpg
@@ -84,7 +84,7 @@ License: GPL-3+
 Files: ubuntucinnamon/focal/ubuntu_cinnamon_focal_fossa.jpg
 Copyright:
  2020 Canonical Ltd.
- 2020 Joshua Peisach <ubuntucinnamonremix7@gmail.com>
+ 2020 Joshua Peisach <itzswirlz2020@outlook.com>
 License: CC-BY-SA-3.0
 Comment: Thanks to Luke Horwell (lah7) for teaching me how to actually
  colorize using ImageMagick.
