@@ -12,71 +12,71 @@ Copyright:
  2019 - 2020 Joshua Peisach <itzswirlz2020@outlook.com>
 License: GPL-2+
 
-Files: ubuntucinnamon/Ubuntu_Cinnamon.jpg
- ubuntucinnamon/Ubuntu_Cinnamon_2.jpg
- ubuntucinnamon/Ubuntu_Cinnamon_Gray.jpg
- ubuntucinnamon/Ubuntu_Cinnamon_Ubuntu.jpg
+Files: usr/share/backgrounds/ubuntucinnamon/Ubuntu_Cinnamon.jpg
+ usr/share/backgrounds/ubuntucinnamon/Ubuntu_Cinnamon_2.jpg
+ usr/share/backgrounds/ubuntucinnamon/Ubuntu_Cinnamon_Gray.jpg
+ usr/share/backgrounds/ubuntucinnamon/Ubuntu_Cinnamon_Ubuntu.jpg
 Copyright:
  2020 Radek Bledowski <radekxmen.bledowski@gmail.com>
 License: GPL-3+
 
-Files: ubuntucinnamon/eoan/4th_Of_July_Spectacular_by_Joshua_Peisach.jpg
- ubuntucinnamon/eoan/Bushes_By_The_Ocean_by_Joshua_Peisach.jpg
- ubuntucinnamon/eoan/Golden_Rocks_Of_Magic_by_Joshua_Peisach.jpg
- ubuntucinnamon/eoan/Greenwood_Lake_by_Joshua_Peisach.jpg
- ubuntucinnamon/eoan/NYC_Skyline_Over_The_Hudson_by_Joshua_Peisach.jpg
- ubuntucinnamon/eoan/Sculpture_Of_Bones_by_Joshua_Peisach.jpg
- ubuntucinnamon/eoan/Sunset_On_The_Boardwalk_by_Joshua_Peisach.jpg
- ubuntucinnamon/focal/Garden_Passage_by_Joshua_Peisach.jpg
- ubuntucinnamon/focal/Night_Iceglow_by_Joshua_Peisach.jpg
- ubuntucinnamon/focal/Snowy_Abyss_by_Joshua_Peisach.jpg
+Files: usr/share/backgrounds/ubuntucinnamon/eoan/4th_Of_July_Spectacular_by_Joshua_Peisach.jpg
+ usr/share/backgrounds/ubuntucinnamon/eoan/Bushes_By_The_Ocean_by_Joshua_Peisach.jpg
+ usr/share/backgrounds/ubuntucinnamon/eoan/Golden_Rocks_Of_Magic_by_Joshua_Peisach.jpg
+ usr/share/backgrounds/ubuntucinnamon/eoan/Greenwood_Lake_by_Joshua_Peisach.jpg
+ usr/share/backgrounds/ubuntucinnamon/eoan/NYC_Skyline_Over_The_Hudson_by_Joshua_Peisach.jpg
+ usr/share/backgrounds/ubuntucinnamon/eoan/Sculpture_Of_Bones_by_Joshua_Peisach.jpg
+ usr/share/backgrounds/ubuntucinnamon/eoan/Sunset_On_The_Boardwalk_by_Joshua_Peisach.jpg
+ usr/share/backgrounds/ubuntucinnamon/focal/Garden_Passage_by_Joshua_Peisach.jpg
+ usr/share/backgrounds/ubuntucinnamon/focal/Night_Iceglow_by_Joshua_Peisach.jpg
+ usr/share/backgrounds/ubuntucinnamon/focal/Snowy_Abyss_by_Joshua_Peisach.jpg
 Copyright:
  2019 - 2020 Joshua Peisach <itzswirlz2020@outlook.com>
 License: CC0
 
-Files: ubuntucinnamon/eoan/Brick_Wall_by_Roman_Vizer.jpg
- ubuntucinnamon/eoan/Cinnamon_by_Roman_Vizer.jpg
- ubuntucinnamon/eoan/Narrow_Forest_Passage_by_Roman_Vizer.jpg
- ubuntucinnamon/eoan/Ukraine_Forest_by_Roman_Vizer.jpg
- ubuntucinnamon/focal/Castle_by_Roman_Vizer.jpg
- ubuntucinnamon/focal/City_Skyview_by_Roman_Vizer.jpg
- ubuntucinnamon/focal/City_View_by_Roman_Vizer.jpg
- ubuntucinnamon/focal/Holiday_City_by_Roman_Vizer.jpg
+Files: usr/share/backgrounds/ubuntucinnamon/eoan/Brick_Wall_by_Roman_Vizer.jpg
+ usr/share/backgrounds/ubuntucinnamon/eoan/Cinnamon_by_Roman_Vizer.jpg
+ usr/share/backgrounds/ubuntucinnamon/eoan/Narrow_Forest_Passage_by_Roman_Vizer.jpg
+ usr/share/backgrounds/ubuntucinnamon/eoan/Ukraine_Forest_by_Roman_Vizer.jpg
+ usr/share/backgrounds/ubuntucinnamon/focal/Castle_by_Roman_Vizer.jpg
+ usr/share/backgrounds/ubuntucinnamon/focal/City_Skyview_by_Roman_Vizer.jpg
+ usr/share/backgrounds/ubuntucinnamon/focal/City_View_by_Roman_Vizer.jpg
+ usr/share/backgrounds/ubuntucinnamon/focal/Holiday_City_by_Roman_Vizer.jpg
 Copyright:
  2019 - 2020 Roman Vizer <wild.seager@gmail.com>
 License: CC-BY-SA-3.0
 
-Files: ubuntucinnamon/eoan/Santorini_Bliss_by_Jordan_Waddon.jpg
+Files: usr/share/backgrounds/ubuntucinnamon/eoan/Santorini_Bliss_by_Jordan_Waddon.jpg
 Copyright:
  2019 Jordan Waddon
 License: GPL-3+
 
-Files: Harbour_Bridge_from_The_Rocks_by_Joshua_Lowe.jpg
+Files: usr/share/backgrounds/ubuntucinnamon/focal/Harbour_Bridge_from_The_Rocks_by_Joshua_Lowe.jpg
 Copyright:
  2020 Joshua Lowe
 License: CC-BY-SA-4.0
 
-Files: ubuntucinnamon/focal/Mountain_Black_by_Radek_Bledowski.jpg
- ubuntucinnamon/focal/Mountain_Sunrise_by_Radek_Bledowski.jpg
+Files: usr/share/backgrounds/ubuntucinnamon/focal/Mountain_Black_by_Radek_Bledowski.jpg
+ usr/share/backgrounds/ubuntucinnamon/focal/Mountain_Sunrise_by_Radek_Bledowski.jpg
 Copyright:
  2020 Radek Bledowski <radekxmen.bledowski@gmail.com>
 License: CC-BY-SA-3.0
 
-Files: ubuntucinnamon/focal/Fountain_at_Washington_Sq_Pk_by_Joshua_Peisach.jpg
- ubuntucinnamon/focal/Freedom_Tower_by_Joshua_Peisach.jpg
- ubuntucinnamon/focal/Oculus_by_Joshua_Peisach.jpg
- ubuntucinnamon/focal/Oculus_Plaza_by_Joshua_Peisach.jpg
- ubuntucinnamon/focal/Outer_Oculus_by_Joshua_Peisach.jpg
+Files: usr/share/backgrounds/ubuntucinnamon/focal/Fountain_at_Washington_Sq_Pk_by_Joshua_Peisach.jpg
+ usr/share/backgrounds/ubuntucinnamon/focal/Freedom_Tower_by_Joshua_Peisach.jpg
+ usr/share/backgrounds/ubuntucinnamon/focal/Oculus_by_Joshua_Peisach.jpg
+ usr/share/backgrounds/ubuntucinnamon/focal/Oculus_Plaza_by_Joshua_Peisach.jpg
+ usr/share/backgrounds/ubuntucinnamon/focal/Outer_Oculus_by_Joshua_Peisach.jpg
 Copyright:
  2020 Joshua Peisach <itzswirlz2020@outlook.com>
 License: CC-BY-SA-4.0
 
-Files: ubuntucinnamon/focal/ubuntu_cinnamon_focal_fossa-2.jpg
+Files: usr/share/backgrounds/ubuntucinnamon/focal/ubuntu_cinnamon_focal_fossa-2.jpg
 Copyright:
  2020 Radek Bledowski <radekxmen.bledowski@gmail.com>
 License: GPL-3+
 
-Files: ubuntucinnamon/eoan/ubuntu_cinnamon_eoan_ermine.jpg
+Files: usr/share/backgrounds/ubuntucinnamon/eoan/ubuntu_cinnamon_eoan_ermine.jpg
 Copyright:
  2019 - 2020 Erich Eickmeyer <erich@ericheickmeyer.com>
 License: GPL-3+
@@ -810,7 +810,7 @@ LICENSE: GPL-2+
  GNU General Public License for more details.
  .
  On Debian systems, the complete text of version 2 of the GNU General
- Public License can be found in '/usr/share/common-licenses/GPL-2'.
+ Public License can be found in 'usr/share/common-licenses/GPL-2'.
 
 LICENSE: GPL-3+
  This program is free software; you can redistribute it and/or modify
@@ -823,4 +823,4 @@ LICENSE: GPL-3+
  GNU General Public License for more details.
  .
  On Debian systems, the complete text of version 3 of the GNU General
- Public License can be found in '/usr/share/common-licenses/GPL-3'.
+ Public License can be found in 'usr/share/common-licenses/GPL-3'.
