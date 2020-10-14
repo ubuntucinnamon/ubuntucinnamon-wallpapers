@@ -1,56 +1,65 @@
-ubuntucinnamon-wallpapers (20.04.5-1) groovy; urgency=medium
+ubuntucinnamon-wallpapers (20.10) groovy; urgency=medium
+
+  * Groovy wallpapers
+  * Switch to native format
+
+  * No longer suggest eoan wallpapers
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 14 Oct 2020 18:48:06 -0400
+
+ubuntucinnamon-wallpapers (20.04.5) groovy; urgency=medium
 
   * Groovy rebuild for Feature Freeze
 
  -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 26 Aug 2020 13:46:35 -0400
 
-ubuntucinnamon-wallpapers (20.04.4-1) focal; urgency=medium
+ubuntucinnamon-wallpapers (20.04.4) focal; urgency=medium
 
   * Focal rebuild
 
  -- Joshua Peisach <itzswirlz2020@outlook.com>  Mon, 27 Jul 2020 17:11:18 -0400
 
-ubuntucinnamon-wallpapers (20.04.3-1) groovy; urgency=medium
+ubuntucinnamon-wallpapers (20.04.3) groovy; urgency=medium
 
   * Welcome to the Groovy Gorilla! Let the fun begin!
   * Update Standards-Version to 4.5.0
 
  -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 24 Apr 2020 13:14:22 -0400
 
-ubuntucinnamon-wallpapers (20.04.2-1) focal; urgency=medium
+ubuntucinnamon-wallpapers (20.04.2) focal; urgency=medium
 
   * Fix colorization of default wallpaper (focal)
   * Add lah7 to copyright comment for helping me colorize better
 
  -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 10 Apr 2020 10:12:12 -0500
 
-ubuntucinnamon-wallpapers (20.04.1-1) focal; urgency=medium
+ubuntucinnamon-wallpapers (20.04.1) focal; urgency=medium
 
   * Focal wallpapers do not include UC wallpapers.
   * From now on: latest version(s) will recommend normal UC walls.
 
  -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 21 Mar 2020 17:24:00 -0500
 
-ubuntucinnamon-wallpapers (20.04-1) focal; urgency=medium
+ubuntucinnamon-wallpapers (20.04) focal; urgency=medium
 
   * Upload focal fossa wallpapers
   * Make 3 packages-wallpapers, eoan and focal
 
  -- Joshua Peisach <itzswirlz2020@outlook.com>  Sun, 15 Mar 2020 21:52:57 -0500
 
-ubuntucinnamon-wallpapers (0.6-1) focal; urgency=medium
+ubuntucinnamon-wallpapers (0.6) focal; urgency=medium
 
   * Welcome to Focal Fossa!
 
  -- Joshua Peisach <itzswirlz2020@outlook.com>  Tue, 24 Dec 2019 18:11:28 -0500
 
-ubuntucinnamon-wallpapers (0.5-1) eoan; urgency=medium
+ubuntucinnamon-wallpapers (0.5) eoan; urgency=medium
 
   * Polish image/image quality (Solves Issue #5)
 
  -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 30 Nov 2019 13:57:53 -0500
 
-ubuntucinnamon-wallpapers (0.4-1) eoan; urgency=medium
+ubuntucinnamon-wallpapers (0.4) eoan; urgency=medium
 
   * Fixed directory paths in ubuntucinnamon-wallpapers.xml
   * /usr/share/backgrounds/file.jpg to
@@ -59,22 +68,22 @@ ubuntucinnamon-wallpapers (0.4-1) eoan; urgency=medium
 
  -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 29 Nov 2019 12:28:43 -0500
 
-ubuntucinnamon-wallpapers (0.3-1) eoan; urgency=medium
+ubuntucinnamon-wallpapers (0.3) eoan; urgency=medium
 
   * Fixed lintian errors found while building v0.2
 
  -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 27 Nov 2019 15:51:45 -0500
 
-ubuntucinnamon-wallpapers (0.2-1) eoan; urgency=medium
+ubuntucinnamon-wallpapers (0.2) eoan; urgency=medium
 
   * Made images format JPG
   * Made XML file for gnome-properties
   * Created separate copyright licenses for each image
-  * Fixed copyright timezone due to EDT to EST (v0.1-1)
+  * Fixed copyright timezone due to EDT to EST (v0.1)
 
  -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 27 Nov 2019 15:43:10 -0500
 
-ubuntucinnamon-wallpapers (0.1-1) eoan; urgency=medium
+ubuntucinnamon-wallpapers (0.1) eoan; urgency=medium
 
   [ Joshua Peisach ]
   * Initial release
