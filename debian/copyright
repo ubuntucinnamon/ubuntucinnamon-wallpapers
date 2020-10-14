@@ -71,7 +71,8 @@ Copyright:
  2020 Joshua Peisach <itzswirlz2020@outlook.com>
 License: CC-BY-SA-4.0
 
-Files: usr/share/backgrounds/ubuntucinnamon/focal/ubuntu_cinnamon_focal_fossa-2.jpg
+Files: usr/share/backgrounds/ubuntucinnamon/focal/ubuntu_cinnamon_focal_fossa-2.jpg,
+ usr/share/backgrounds/ubuntucinnamon/groovy/ubuntu_cinnamon_groovy_gorilla-2.jpg
 Copyright:
  2020 Radek Bledowski <radekxmen.bledowski@gmail.com>
 License: GPL-3+
@@ -81,7 +82,8 @@ Copyright:
  2019 - 2020 Erich Eickmeyer <erich@ericheickmeyer.com>
 License: GPL-3+
 
-Files: ubuntucinnamon/focal/ubuntu_cinnamon_focal_fossa.jpg
+Files: usr/share/backgrounds/ubuntucinnamon/focal/ubuntu_cinnamon_focal_fossa.jpg,
+ usr/share/backgrounds/ubuntucinnamon/groovy/ubuntu_cinnamon_groovy_gorilla.jpg
 Copyright:
  2020 Canonical Ltd.
  2020 Joshua Peisach <itzswirlz2020@outlook.com>
@@ -89,7 +91,18 @@ License: CC-BY-SA-3.0
 Comment: Thanks to Luke Horwell (lah7) for teaching me how to actually
  colorize using ImageMagick.
 
+Files: usr/share/backgrounds/ubuntucinnamon/groovy/Creek_By_Forest_Road_by_echra_pod.jpg,
+ usr/share/backgrounds/ubuntucinnamon/groovy/Lake_In_Mountain_Valley_by_echra_pod.jpg,
+ usr/share/backgrounds/ubuntucinnamon/groovy/Road_In_The_Winter_by_echra_pod.jpg
+Copyright: 2020 echra_pod
 License: CC-BY-SA-3.0
+
+Files: usr/share/backgrounds/ubuntucinnamon/groovy/Sunrise_Over_The_Adirondacks_by_Joshua_Peisach.jpg,
+ usr/share/backgrounds/ubuntucinnamon/groovy/Sunset_On_Huddle_Bay_by_Joshua_Peisach.jpg
+Copyright: 2020 Joshua Peisach <itzswirlz2020@outlook.com>
+License: CC0
+
+LICENSE: CC-BY-SA-3.0
  Unless otherwise indicated, artwork is available under the Creative
  Commons Attribution Share-alike license v3.0 or any later version. To
  view a copy of this license, visit
