@@ -11,7 +11,7 @@ Homepage: https://github.com/Ubuntu-Cinnamon-Remix/
 
 Package: ubuntucinnamon-wallpapers
 Architecture: all
-Suggests: ubuntucinnamon-wallpapers-eoan, ubuntucinnamon-wallpapers-focal
+Suggests: ubuntucinnamon-wallpapers-focal
 Depends: ${misc:Depends}
 Description: Elegant and modern wallpapers for the Ubuntu Cinnamon desktop
  The Ubuntu Cinnamon Wallpapers are elegant, modern wallpapers
@@ -22,7 +22,7 @@ Description: Elegant and modern wallpapers for the Ubuntu Cinnamon desktop
 
 Package: ubuntucinnamon-wallpapers-eoan
 Architecture: all
-Suggests: ubuntucinnamon-wallpapers-focal, ubuntucinnamon-wallpapers
+Suggests: ubuntucinnamon-wallpapers
 Depends: ${misc:Depends}
 Description: Elegant and modern wallpapers for the Ubuntu Cinnamon desktop
  The Ubuntu Cinnamon 19.10 Eoan Ermine Wallpapers are elegant, modern
