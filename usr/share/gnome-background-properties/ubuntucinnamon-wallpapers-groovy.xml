@@ -10,6 +10,14 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
+    <name>Groovy Gorilla</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/groovy/ubuntu_cinnamon_groovy_gorilla-2.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
     <name>Lake in Mountain Valley</name>
     <filename>/usr/share/backgrounds/ubuntucinnamon/groovy/Lake_In_Mountain_Valley_by_echra_pod.jpg</filename>
     <options>zoom</options>
