@@ -1,12 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
- <wallpaper>
-     <name>Ubuntu Cinnamon 20.10 Groovy Gorilla</name>
-     <filename>/usr/share/backgrounds/ubuntucinnamon/groovy/ubuntu_cinnamon_groovy_gorilla.jpg</filename>
-     <options>zoom</options>
-     <pcolor>#000000</pcolor>
-     <scolor>#000000</scolor>
-     <shade_type>solid</shade_type>
- </wallpaper>
+  <wallpaper>
+    <name>Creek By Forest Road</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/groovy/Creek_By_Forest_Road_by_echra_pod.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Lake in Mountain Valley</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/groovy/Lake_In_Mountain_Valley_by_echra_pod.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Road in The Winter</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/groovy/Road_In_The_Winter_by_echra_pod.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Sunrise Over The Adirondacks</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/groovy/Sunrise_Over_The_Adirondacks_by_Joshua_Peisach.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Sunset On Huddle Bay</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/groovy/Sunset_On_Huddle_Bay_by_Joshua_Peisach.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Ubuntu Cinnamon 20.10 Groovy Gorilla</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/groovy/ubuntu_cinnamon_groovy_gorilla.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+   </wallpaper>
 </wallpapers>
