@@ -1,3 +1,9 @@
+ubuntucinnamon-wallpapers (20.11) hirsute; urgency=medium
+
+  * Rebuild for Hirsute
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 04 Nov 2020 22:29:59 -0400
+
 ubuntucinnamon-wallpapers (20.10.1) groovy; urgency=medium
 
   * Add xml to install file
