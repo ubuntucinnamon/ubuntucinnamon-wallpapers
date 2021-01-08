@@ -11,7 +11,7 @@ License: GPL-3+
 Files: debian/*
 Copyright:
  2019 - 2021 Joshua Peisach <itzswirlz2020@outlook.com>
-License: GPL-2+
+License: GPL-2
 
 Files: usr/share/backgrounds/ubuntucinnamon/Ubuntu_Cinnamon.jpg
  usr/share/backgrounds/ubuntucinnamon/Ubuntu_Cinnamon_2.jpg
@@ -383,7 +383,7 @@ LICENSE: CC-BY-SA-3.0
  .
  Creative Commons may be contacted at http://creativecommons.org/
 
-License: CC-BY-SA-4.0
+LICENSE: CC-BY-SA-4.0
  Unless otherwise indicated, artwork is available under the Creative
  Commons Attribution Share-alike license v4.0 International or any
  later version. To view a copy of this license, visit
@@ -816,17 +816,17 @@ License: CC0
  Creative Commons, 444 Castro Street, Suite 900, Mountain View,
  California, 94041, USA.
 
-LICENSE: GPL-2+
+LICENSE: GPL-2
  This program is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
- the Free Software Foundation; either version 2, or (at your option)
- any later version.
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
  .
- This program is distributed in the hope that it will be useful, but
- WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ .
  GNU General Public License for more details.
- .
  On Debian systems, the complete text of version 2 of the GNU General
  Public License can be found in 'usr/share/common-licenses/GPL-2'.
 
