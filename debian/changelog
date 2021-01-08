@@ -1,10 +1,12 @@
-ubuntucinnamon-wallpapers (20.12) UNRELEASED; urgency=medium
+ubuntucinnamon-wallpapers (20.12) hirsute; urgency=medium
 
   * debian/copyright: use spaces rather than tabs to start continuation lines.
   * debian/copyright: Replace commas with whitespace to separate items in Files
     paragraph.
+  * debian/copyright: Fix GPL-2 license, add upstream-contact field and bump
+    copyright year.
 
- -- Joshua Peisach <jpeisach@Joshua-PC>  Fri, 08 Jan 2021 09:37:11 -0000
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 08 Jan 2021 09:54:38 -0500
 
 ubuntucinnamon-wallpapers (20.11) hirsute; urgency=medium
 
