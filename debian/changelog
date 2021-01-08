@@ -1,3 +1,9 @@
+ubuntucinnamon-wallpapers (20.12) UNRELEASED; urgency=medium
+
+  * debian/copyright: use spaces rather than tabs to start continuation lines.
+
+ -- Joshua Peisach <jpeisach@Joshua-PC>  Fri, 08 Jan 2021 09:37:11 -0000
+
 ubuntucinnamon-wallpapers (20.11) hirsute; urgency=medium
 
   * Rebuild for Hirsute
