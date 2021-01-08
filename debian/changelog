@@ -1,6 +1,8 @@
 ubuntucinnamon-wallpapers (20.12) UNRELEASED; urgency=medium
 
   * debian/copyright: use spaces rather than tabs to start continuation lines.
+  * debian/copyright: Replace commas with whitespace to separate items in Files
+    paragraph.
 
  -- Joshua Peisach <jpeisach@Joshua-PC>  Fri, 08 Jan 2021 09:37:11 -0000
 
