@@ -1,3 +1,14 @@
+ubuntucinnamon-wallpapers (21.04) hirsute; urgency=medium
+
+  * Add hirsute wallpapers
+  * Add new global UC wallpapers
+  * New hirsute package
+
+  * Bump standards-version to 4.5.1
+  * Remove redundant dependency
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 14 Apr 2021 14:20:51 -0400
+
 ubuntucinnamon-wallpapers (21.01) hirsute; urgency=medium
 
   * Rebuild for new month version (to fix md5sum mismatch)
