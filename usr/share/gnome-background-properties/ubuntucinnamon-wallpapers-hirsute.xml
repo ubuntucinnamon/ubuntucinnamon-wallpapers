@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <name>Brown Mountains</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/hirsute/Brown_Mountains_by_John_Towner.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+     <name>Pink Petaled Flowers</name>
+     <filename>/usr/share/backgrounds/ubuntucinnamon/hirsute/Pink_Petaled_Flowers_by_Tj_Holowaychuk.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+     <name>Purple Flowers</name>
+     <filename>/usr/share/backgrounds/ubuntucinnamon/hirsute/Purple_Flowers_by_Gaetano_Cessati.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Ubuntu Cinnamon 21.04 Happy Hippo</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/hirsute/ubuntu_cinnamon_happy_hippo.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Ubuntu Cinnamon 21.04 Hirsute Hippo</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/hirsute/ubuntu_cinnamon_hirsute_hippo.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+   </wallpaper>
+</wallpapers>

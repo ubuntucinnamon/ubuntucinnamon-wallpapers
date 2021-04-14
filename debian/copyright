@@ -21,6 +21,11 @@ Copyright:
  2020 Radek Bledowski <radekxmen.bledowski@gmail.com>
 License: GPL-3+
 
+Files: usr/share/backgrounds/ubuntucinnamon/Ubuntu_Cinnamon_Gradient.jpg
+ usr/share/backgrounds/ubuntucinnamon/Ubuntu_Cinnamon_Shades.jpg
+Copyright: 2021 Allan Carvalho
+License: GPL-3+
+
 Files: usr/share/backgrounds/ubuntucinnamon/eoan/4th_Of_July_Spectacular_by_Joshua_Peisach.jpg
  usr/share/backgrounds/ubuntucinnamon/eoan/Bushes_By_The_Ocean_by_Joshua_Peisach.jpg
  usr/share/backgrounds/ubuntucinnamon/eoan/Golden_Rocks_Of_Magic_by_Joshua_Peisach.jpg
@@ -87,6 +92,7 @@ License: GPL-3+
 Files:
  usr/share/backgrounds/ubuntucinnamon/focal/ubuntu_cinnamon_focal_fossa.jpg
  usr/share/backgrounds/ubuntucinnamon/groovy/ubuntu_cinnamon_groovy_gorilla.jpg
+ usr/share/backgrounds/ubuntucinnamon/hirsute/ubuntu_cinnamon_hirsute_hippo.jpg
 Copyright:
  2020 Canonical Ltd.
  2020 Joshua Peisach <itzswirlz2020@outlook.com>
@@ -106,6 +112,25 @@ Files:
  usr/share/backgrounds/ubuntucinnamon/groovy/Sunset_On_Huddle_Bay_by_Joshua_Peisach.jpg
 Copyright: 2020 Joshua Peisach <itzswirlz2020@outlook.com>
 License: CC0
+
+Files: usr/share/backgrounds/ubuntucinnamon/hirsute/ubuntu_cinnamon_happy_hippo.jpg
+Copyright: 2021 Allan Carvalho
+License: GPL-3+
+
+Files: usr/share/backgrounds/ubuntucinnamon/hirsute/Brown_Mountains_by_John_Towner.jpg
+Copyright: 2016 John Towner
+License: CC-BY-SA-3.0
+Comment: https://unsplash.com/photos/JgOeRuGD_Y4
+
+Files: usr/share/backgrounds/Pink_Petaled_Flowers_by_Tj_Holowaychuk.jpg
+Copyright: 2017 Tj Holowaychuk
+License: CC-BY-SA-3.0
+Comment: https://unsplash.com/photos/iGrsa9rL11o
+
+Files: usr/share/backgrounds/Purple_Flowers_by_Gaetano_Cessati.jpg
+Copyright: 2016 Gaetano Cessati
+License: CC-BY-SA-3.0
+Comment: https://unsplash.com/photos/CCy2UFLO1Mg
 
 LICENSE: CC-BY-SA-3.0
  Unless otherwise indicated, artwork is available under the Creative
@@ -828,7 +853,7 @@ LICENSE: GPL-2
  .
  GNU General Public License for more details.
  On Debian systems, the complete text of version 2 of the GNU General
- Public License can be found in 'usr/share/common-licenses/GPL-2'.
+ Public License can be found in '/usr/share/common-licenses/GPL-2'.
 
 LICENSE: GPL-3+
  This program is free software; you can redistribute it and/or modify
