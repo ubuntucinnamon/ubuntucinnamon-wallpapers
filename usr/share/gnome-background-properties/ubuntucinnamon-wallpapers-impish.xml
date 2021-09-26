@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <name>Circle Of Life</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/impish/Circle_Of_Life_by_Samuel_Ryklin.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Huddle Bay</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/impish/Huddle_Bay_by_Joshua_Peisach.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Lake</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/impish/Lake_by_ChromeL.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Myrtle Beach Hotel Sunset</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/impish/Myrtle_Beach_Hotel_Sunset_by_Joshua_Peisach.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Park Days</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/impish/Park_Days_by_Joshua_Peisach.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Pond Sunset</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/impish/Pond_Sunset_by_Joshua_Peisach.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Rainy Summer Days</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/impish/Rainy_Summer_Days_by_Samuel_Ryklin.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Signature Seagull</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/impish/Signature_Seagull_by_Joshua_Peisach.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Ubuntu Cinnamon 21.10 Orange Indri</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/impish/ubuntu_cinnamon_orange_indri.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Ubuntu Cinnamon 21.10 Impish Indri</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/impish/ubuntu_cinnamon_impish_indri.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>

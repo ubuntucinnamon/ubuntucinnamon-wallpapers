@@ -34,6 +34,14 @@
      <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
+     <name>Ubuntu Cinnamon Power</name>
+     <filename>/usr/share/backgrounds/ubuntucinnamon/Ubuntu_Cinnamon_Power.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
      <name>Ubuntu Cinnamon Shades</name>
      <filename>/usr/share/backgrounds/ubuntucinnamon/Ubuntu_Cinnamon_Shades.jpg</filename>
      <options>zoom</options>
@@ -44,6 +52,14 @@
   <wallpaper>
      <name>Ubuntu Cinnamon Ubuntu</name>
      <filename>/usr/share/backgrounds/ubuntucinnamon/Ubuntu_Cinnamon_Ubuntu.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+     <name>Ubuntu Cinnamon World</name>
+     <filename>/usr/share/backgrounds/ubuntucinnamon/Ubuntu_Cinnamon_World.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
