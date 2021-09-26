@@ -1,3 +1,10 @@
+ubuntucinnamon-wallpapers (21.10.1) impish; urgency=medium
+
+  * Add impish wallpapers
+  * Bump Standards-version to 4.6.0
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sun, 26 Sep 2021 17:07:03 -0400
+
 ubuntucinnamon-wallpapers (21.10) impish; urgency=medium
 
   * Rebuild for Impish
