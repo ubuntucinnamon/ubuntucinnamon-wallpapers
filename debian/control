@@ -4,7 +4,7 @@ Section: misc
 Priority: important
 Build-Depends: debhelper-compat (= 13)
 Rules-Requires-Root: no
-Standards-Version: 4.5.1
+Standards-Version: 4.6.0
 Vcs-Browser: https://github.com/Ubuntu-Cinnamon-Remix/ubuntucinnamon-wallpapers
 Vcs-Git: https://github.com/Ubuntu-Cinnamon-Remix/ubuntucinnamon-wallpapers.git
 Homepage: https://github.com/Ubuntu-Cinnamon-Remix/
