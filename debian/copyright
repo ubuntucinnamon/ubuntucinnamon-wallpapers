@@ -5,12 +5,12 @@ Source: https://github.com/Ubuntu-Cinnamon-Remix/ubuntucinnamon-wallpapers
 
 Files: *
 Copyright:
- 2019 - 2021 Joshua Peisach <itzswirlz2020@outlook.com>
+ 2019 - 2022 Joshua Peisach <itzswirlz2020@outlook.com>
 License: GPL-3+
 
 Files: debian/*
 Copyright:
- 2019 - 2021 Joshua Peisach <itzswirlz2020@outlook.com>
+ 2019 - 2022 Joshua Peisach <itzswirlz2020@outlook.com>
 License: GPL-2
 
 Files: usr/share/backgrounds/ubuntucinnamon/Ubuntu_Cinnamon.jpg
@@ -50,6 +50,7 @@ Files: usr/share/backgrounds/ubuntucinnamon/eoan/Brick_Wall_by_Roman_Vizer.jpg
  usr/share/backgrounds/ubuntucinnamon/focal/City_Skyview_by_Roman_Vizer.jpg
  usr/share/backgrounds/ubuntucinnamon/focal/City_View_by_Roman_Vizer.jpg
  usr/share/backgrounds/ubuntucinnamon/focal/Holiday_City_by_Roman_Vizer.jpg
+ usr/share/backgrounds/ubuntucinnamon/jammy/Concert_by_Roman_Vizer.jpg
 Copyright:
  2019 - 2020 Roman Vizer <wild.seager@gmail.com>
 License: CC-BY-SA-3.0
@@ -97,6 +98,8 @@ Files:
  usr/share/backgrounds/ubuntucinnamon/groovy/ubuntu_cinnamon_groovy_gorilla.jpg
  usr/share/backgrounds/ubuntucinnamon/hirsute/ubuntu_cinnamon_hirsute_hippo.jpg
  usr/share/backgrounds/ubuntucinnamon/impish/ubuntu_cinnamon_impish_indri.jpg
+ usr/share/backgrounds/ubuntucinnamon/jammy/ubuntu_cinnamon_jammy_jellyfish.jpg
+ usr/share/backgrounds/ubuntucinnamon/jammy/ubuntu_cinnamon_jammy_jellyfish_light.jpg
 Copyright:
  2020 Canonical Ltd.
  2020 Joshua Peisach <itzswirlz2020@outlook.com>
@@ -118,6 +121,7 @@ Copyright: 2020 Joshua Peisach <itzswirlz2020@outlook.com>
 License: CC0
 
 Files: usr/share/backgrounds/ubuntucinnamon/hirsute/ubuntu_cinnamon_happy_hippo.jpg
+ usr/share/backgrounds/ubuntucinnamon/jammy/Ubuntu_Remixes_Jellyfishes.jpg
 Copyright: 2021 Allan Carvalho
 License: GPL-3+
 
@@ -152,6 +156,19 @@ License: CC-BY-SA-3.0
 Files: usr/share/backgrounds/ubuntucinnamon/impish/Lake_by_ChromeL.jpg
 Copyright: 2021 ChromeL
 License: CC-BY-SA-3.0
+
+Files: usr/share/backgrounds/ubuntucinnamon/jammy/Fall_Foliage_by_Joshua_Peisach.jpg
+ usr/share/backgrounds/ubuntucinnamon/jammy/Icy_Walkway_by_Joshua_Peisach.jpg
+ usr/share/backgrounds/ubuntucinnamon/jammy/Water_Fountain_by_Joshua_Peisach.jpg
+Copyright:
+ 2022 Joshua Peisach <itzswirlz2020@outlook.com>
+License: CC-BY-SA-4.0
+
+Files: usr/share/backgrounds/ubuntucinnamon/focal/Night_Otter_by_Rebecca_Ryklin.jpg
+ usr/share/backgrounds/ubuntucinnamon/jammy/Lonesome_Luminescent_by_Rebecca_Ryklin.jpg
+Copyright:
+ 2020-2022 Rebecca Ryklin
+License: CC-BY-SA-4.0
 
 LICENSE: CC-BY-SA-3.0
  Unless otherwise indicated, artwork is available under the Creative

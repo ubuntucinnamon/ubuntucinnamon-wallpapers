@@ -74,3 +74,14 @@ Description: Elegant and modern wallpapers for the Ubuntu Cinnamon desktop
  desktop, whether you are running it for its purpose, Ubuntu Cinnamon
  or just for the elegance and fun. This is part of the ubuntucinnamon-artwork
  package and should be applicable to almost every desktop.
+
+Package: ubuntucinnamon-wallpapers-jammy
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: ubuntucinnamon-wallpapers
+Description: Elegant and modern wallpapers for the Ubuntu Cinnamon desktop
+ The Ubuntu Cinnamon 22.04 Jammy Jellyfish Wallpapers are elegant, modern
+ wallpapers that are easily able to fit the needs for your perfect
+ desktop, whether you are running it for its purpose, Ubuntu Cinnamon
+ or just for the elegance and fun. This is part of the ubuntucinnamon-artwork
+ package and should be applicable to almost every desktop.

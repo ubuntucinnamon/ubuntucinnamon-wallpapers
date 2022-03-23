@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <name>Concert</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/jammy/Concert_by_Roman_Vizer.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Fall Foliage</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/jammy/Fall_Foliage_by_Joshua_Peisach.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Icy Walkway</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/jammy/Icy_Walkway_by_Joshua_Peisach.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Lonesome Luminescent</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/jammy/Lonesome_Luminescent_by_Rebecca_Ryklin.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Ubuntu Cinnamon 22.04 Jammy Jellyfish</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/jammy/ubuntu_cinnamon_jammy_jellyfish.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Ubuntu Cinnamon 22.04 Jammy Jellyfish Light</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/jammy/ubuntu_cinnamon_jammy_jellyfish_light.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Ubuntu Remixes Jellyfishes</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/jammy/Ubuntu_Remixes_Jellyfishes_by_Allan_Carvalho.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Water Fountain</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/jammy/Water_Fountain_by_Joshua_Peisach.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>
