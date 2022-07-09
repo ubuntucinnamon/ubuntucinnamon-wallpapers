@@ -1,3 +1,10 @@
+ubuntucinnamon-wallpapers (22.07) kinetic; urgency=medium
+
+  * Kinetic rebuild
+  * In short description of packages show which release wallpapers are from
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 09 Jul 2022 12:53:13 -0400
+
 ubuntucinnamon-wallpapers (22.04.2) jammy; urgency=medium
 
   * Update wallpapers
