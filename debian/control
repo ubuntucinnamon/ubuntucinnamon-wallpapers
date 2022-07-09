@@ -24,7 +24,7 @@ Package: ubuntucinnamon-wallpapers-eoan
 Architecture: all
 Suggests: ubuntucinnamon-wallpapers
 Depends: ${misc:Depends}
-Description: Elegant and modern wallpapers for the Ubuntu Cinnamon desktop
+Description: Elegant and modern wallpapers for the Ubuntu Cinnamon desktop (19.10 release)
  The Ubuntu Cinnamon 19.10 Eoan Ermine Wallpapers are elegant, modern
  wallpapers that are easily able to fit the needs for your perfect
  desktop, whether you are running it for its purpose, Ubuntu Cinnamon
@@ -35,7 +35,7 @@ Package: ubuntucinnamon-wallpapers-focal
 Architecture: all
 Depends: ${misc:Depends}
 Recommends: ubuntucinnamon-wallpapers
-Description: Elegant and modern wallpapers for the Ubuntu Cinnamon desktop
+Description: Elegant and modern wallpapers for the Ubuntu Cinnamon desktop (20.04 release)
  The Ubuntu Cinnamon 20.04 Focal Fossa Wallpapers are elegant, modern
  wallpapers that are easily able to fit the needs for your perfect
  desktop, whether you are running it for its purpose, Ubuntu Cinnamon
@@ -46,7 +46,7 @@ Package: ubuntucinnamon-wallpapers-groovy
 Architecture: all
 Depends: ${misc:Depends}
 Recommends: ubuntucinnamon-wallpapers
-Description: Elegant and modern wallpapers for the Ubuntu Cinnamon desktop
+Description: Elegant and modern wallpapers for the Ubuntu Cinnamon desktop (20.10 release)
  The Ubuntu Cinnamon 20.10 Groovy Gorilla Wallpapers are elegant, modern
  wallpapers that are easily able to fit the needs for your perfect
  desktop, whether you are running it for its purpose, Ubuntu Cinnamon
@@ -57,7 +57,7 @@ Package: ubuntucinnamon-wallpapers-hirsute
 Architecture: all
 Depends: ${misc:Depends}
 Recommends: ubuntucinnamon-wallpapers
-Description: Elegant and modern wallpapers for the Ubuntu Cinnamon desktop
+Description: Elegant and modern wallpapers for the Ubuntu Cinnamon desktop (21.04 release)
  The Ubuntu Cinnamon 21.04 Hirsute Hippo Wallpapers are elegant, modern
  wallpapers that are easily able to fit the needs for your perfect
  desktop, whether you are running it for its purpose, Ubuntu Cinnamon
@@ -68,7 +68,7 @@ Package: ubuntucinnamon-wallpapers-impish
 Architecture: all
 Depends: ${misc:Depends}
 Recommends: ubuntucinnamon-wallpapers
-Description: Elegant and modern wallpapers for the Ubuntu Cinnamon desktop
+Description: Elegant and modern wallpapers for the Ubuntu Cinnamon desktop (21.10 release)
  The Ubuntu Cinnamon 21.10 Impish Indri Wallpapers are elegant, modern
  wallpapers that are easily able to fit the needs for your perfect
  desktop, whether you are running it for its purpose, Ubuntu Cinnamon
@@ -79,7 +79,7 @@ Package: ubuntucinnamon-wallpapers-jammy
 Architecture: all
 Depends: ${misc:Depends}
 Recommends: ubuntucinnamon-wallpapers
-Description: Elegant and modern wallpapers for the Ubuntu Cinnamon desktop
+Description: Elegant and modern wallpapers for the Ubuntu Cinnamon desktop (22.04 release)
  The Ubuntu Cinnamon 22.04 Jammy Jellyfish Wallpapers are elegant, modern
  wallpapers that are easily able to fit the needs for your perfect
  desktop, whether you are running it for its purpose, Ubuntu Cinnamon
