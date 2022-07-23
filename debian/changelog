@@ -1,3 +1,9 @@
+ubuntucinnamon-wallpapers (22.07.1) kinetic; urgency=medium
+
+  * Fix lintian warnings
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 23 Jul 2022 11:35:51 -0400
+
 ubuntucinnamon-wallpapers (22.07) kinetic; urgency=medium
 
   * Kinetic rebuild
