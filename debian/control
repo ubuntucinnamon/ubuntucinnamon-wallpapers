@@ -1,7 +1,7 @@
 Source: ubuntucinnamon-wallpapers
 Maintainer: Joshua Peisach <itzswirlz2020@outlook.com>
 Section: misc
-Priority: important
+Priority: optional
 Build-Depends: debhelper-compat (= 13)
 Rules-Requires-Root: no
 Standards-Version: 4.6.0
