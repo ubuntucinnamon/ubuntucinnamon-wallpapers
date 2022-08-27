@@ -1,3 +1,9 @@
+ubuntucinnamon-wallpapers (22.08) kinetic; urgency=medium
+
+  * Set priority to optional (LP: #1987213)
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 27 Aug 2022 12:31:05 -0400
+
 ubuntucinnamon-wallpapers (22.07.1) kinetic; urgency=medium
 
   * Fix lintian warnings
