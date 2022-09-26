@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <name>Blue as Infinity</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/kinetic/Blue_as_Infinity_by_Harshad_Joshi.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+     <name>Chuncheon-si Gangwon-do Golf Course</name>
+     <filename>/usr/share/backgrounds/ubuntucinnamon/kinetic/Chuncheon-si-Gangwon-do_Golf_Course_by_Joshua_Park.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+     <name>Fantasy Kudu</name>
+     <filename>/usr/share/backgrounds/ubuntucinnamon/kinetic/Fantasy_Kudu_by_Valtari_Valcarcel.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Iceland Dock</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/kinetic/Iceland_Dock_by_Samuel_Ryklin.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Million Dollar Beach View</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/kinetic/Million_Dollar_Beach_View_by_Joshua_Peisach.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+   </wallpaper>
+   <wallpaper>
+    <name>Myrtle Beach Resort</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/kinetic/Myrtle_Beach_Resort_by_Joshua_Peisach.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+   </wallpaper>
+   <wallpaper>
+    <name>National Mall</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/kinetic/National_Mall_by_Joshua_Peisach.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+   </wallpaper>
+   <wallpaper>
+    <name>Schnectady Amphitheatre</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/kinetic/Schnectady_Amphitheatre_by_Joshua_Peisach.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+   </wallpaper>
+   <wallpaper>
+    <name>Suamgol Village</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/kinetic/Suamgol_Village_by_Joshua_Park.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+   </wallpaper>
+   <wallpaper>
+    <name>The Rise of the Milky Way</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/kinetic/The_Rise_of_the_Milky_Way_by_Gilberto_Ferreira.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+   </wallpaper>
+   <wallpaper>
+    <name>Ubuntu Cinnamon 22.10 Kinetic Kudu</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/kinetic/ubuntu_cinnamon_kinetic_kudu.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+   </wallpaper>
+</wallpapers>

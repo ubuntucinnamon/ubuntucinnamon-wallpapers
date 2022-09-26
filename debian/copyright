@@ -100,6 +100,7 @@ Files:
  usr/share/backgrounds/ubuntucinnamon/impish/ubuntu_cinnamon_impish_indri.jpg
  usr/share/backgrounds/ubuntucinnamon/jammy/ubuntu_cinnamon_jammy_jellyfish.jpg
  usr/share/backgrounds/ubuntucinnamon/jammy/ubuntu_cinnamon_jammy_jellyfish_light.jpg
+ usr/share/backgrounds/ubuntucinnamon/kinetic/ubuntu_cinnamon_kinetic_kudu.jpg
 Copyright:
  2020 Canonical Ltd.
  2020 Joshua Peisach <itzswirlz2020@outlook.com>
@@ -168,6 +169,30 @@ Files: usr/share/backgrounds/ubuntucinnamon/focal/Night_Otter_by_Rebecca_Ryklin.
  usr/share/backgrounds/ubuntucinnamon/jammy/Lonesome_Luminescent_by_Rebecca_Ryklin.jpg
 Copyright:
  2020-2022 Rebecca Ryklin
+License: CC-BY-SA-4.0
+
+Files: usr/share/backgrounds/ubuntucinnamon/kinetic/Blue_as_Infinity_by_Harshad_Joshi.jpg
+Copyright: 2022 Harshad Joshi
+License: CC-BY-SA-4.0
+
+Files: usr/share/backgrounds/ubuntucinnamon/kinetic/Chuncheon-si-Gangwon-do_Golf_Course_by_Joshua_Park.jpg
+ usr/share/backgrounds/ubuntucinnamon/kinetic/Suamgol_Village_by_Joshua_Park.jpg
+Copyright: 2022 Joshua Park
+License: CC-BY-SA-4.0
+
+Files: usr/share/backgrounds/ubuntucinnamon/kinetic/Fantasy_Kudu_by_Valtari_Valcarcel.jpg
+Copyright: 2022 Valtari Valcarcel
+License: CC-BY-SA-4.0
+
+Files: usr/share/backgrounds/ubuntucinnamon/kinetic/Million_Dollar_Beach_View_by_Joshua_Peisach.jpg
+ usr/share/backgrounds/ubuntucinnamon/kinetic/Myrtle_Beach_Resort_by_Joshua_Peisach.jpg
+ usr/share/backgrounds/ubuntucinnamon/kinetic/National_Mall_by_Joshua_Peisach.jpg
+ usr/share/backgrounds/ubuntucinnamon/kinetic/Schnectady_Amphitheatre_by_Joshua_Peisach.jpg
+Copyright: 2022 Joshua Peisach <itzswirlz2020@outlook.com>
+License: CC-BY-SA-4.0
+
+Files: usr/share/backgrounds/ubuntucinnamon/kinetic/The_Rise_of_the_Milky_Way_by_Gilberto_Ferreira.jpg
+Copyright: 2022 Gilberto Ferreira
 License: CC-BY-SA-4.0
 
 LICENSE: CC-BY-SA-3.0
