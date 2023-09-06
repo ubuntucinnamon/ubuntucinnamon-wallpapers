@@ -102,6 +102,7 @@ Files:
  usr/share/backgrounds/ubuntucinnamon/jammy/ubuntu_cinnamon_jammy_jellyfish_light.jpg
  usr/share/backgrounds/ubuntucinnamon/kinetic/ubuntu_cinnamon_kinetic_kudu.jpg
  usr/share/backgrounds/ubuntucinnamon/lunar/ubuntu_cinnamon_lunar_lobster.jpg
+ usr/share/backgrounds/ubuntucinnamon/mantic/ubuntu_cinnamon_mantic_minotaur.jpg
 Copyright:
  2020 Canonical Ltd.
  2020 Joshua Peisach <itzswirlz2020@outlook.com>
@@ -147,6 +148,7 @@ Files: usr/share/backgrounds/ubuntucinnamon/impish/Huddle_Bay_by_Joshua_Peisach.
  usr/share/backgrounds/ubuntucinnamon/impish/Park_Days_by_Joshua_Peisach.jpg
  usr/share/backgrounds/ubuntucinnamon/impish/Pond_Sunset_by_Joshua_Peisach.jpg
  usr/share/backgrounds/ubuntucinnamon/impish/Signature_Seagull_by_Joshua_Peisach.jpg
+ usr/share/backgrounds/ubuntucinnamon/mantic/Pond_Sunset_by_Joshua_Peisach.jpg
 Copyright: 2021 Joshua Peisach <itzswirlz2020@outlook.com>
 License: CC-BY-SA-3.0
 
@@ -209,6 +211,13 @@ Files: usr/share/backgrounds/ubuntucinnamon/lunar/Cornell_View_by_Joshua_Peisach
  usr/share/backgrounds/ubuntucinnamon/lunar/Foggy_Fountain_by_Joshua_Peisach.jpg
  usr/share/backgrounds/ubuntucinnamon/lunar/Waterfall_Pond_by_Joshua_Peisach.jpg
 Copyright: 2022 Joshua Peisach <itzswirlz2020@outlook.com>
+License: CC-BY-SA-4.0
+
+
+Files: usr/share/backgrounds/ubuntucinnamon/mantic/Manhattan_Bridge_by_Joshua_Park.jpg
+ usr/share/backgrounds/ubuntucinnamon/mantic/Niagara_Falls_by_Joshua_Park.jpg
+ usr/share/backgrounds/ubuntucinnamon/mantic/Statue_of_Liberty_by_Joshua_Park.jpg
+Copyright: 2023 Joshua Park
 License: CC-BY-SA-4.0
 
 LICENSE: CC-BY-SA-3.0

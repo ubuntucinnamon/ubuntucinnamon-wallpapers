@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <name>Manhattan Bridge</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/mantic/Manhattan_Bridge_by_Joshua_Park.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Niagara Falls</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/mantic/Niagara_Falls_by_Joshua_Park.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Pond Sunset</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/mantic/Pond_Sunset_by_Joshua_Peisach.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Statue of Liberty</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/mantic/Statue_of_Liberty_by_Joshua_Park.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Ubuntu Cinnamon 23.10 Mantic Minotaur</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/mantic/ubuntu_cinnamon_mantic_minotaur.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>
