@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: ubuntucinnamon-wallpapers
 Upstream-Contact: Joshua Peisach <itzswirlz2020@outlook.com>
-Source: https://github.com/Ubuntu-Cinnamon-Remix/ubuntucinnamon-wallpapers
+Source: https://github.com/ubuntucinnamon/ubuntucinnamon-wallpapers
 
 Files: *
 Copyright:
@@ -75,6 +75,7 @@ Files: usr/share/backgrounds/ubuntucinnamon/focal/Fountain_at_Washington_Sq_Pk_b
  usr/share/backgrounds/ubuntucinnamon/focal/Freedom_Tower_by_Joshua_Peisach.jpg
  usr/share/backgrounds/ubuntucinnamon/focal/Oculus_by_Joshua_Peisach.jpg
  usr/share/backgrounds/ubuntucinnamon/focal/Oculus_Plaza_by_Joshua_Peisach.jpg
+ usr/share/backgrounds/ubuntucinnamon/noble/Oculus_Plaza_by_Joshua_Peisach.jpg
  usr/share/backgrounds/ubuntucinnamon/focal/Outer_Oculus_by_Joshua_Peisach.jpg
 Copyright:
  2020 Joshua Peisach <itzswirlz2020@outlook.com>
@@ -103,6 +104,7 @@ Files:
  usr/share/backgrounds/ubuntucinnamon/kinetic/ubuntu_cinnamon_kinetic_kudu.jpg
  usr/share/backgrounds/ubuntucinnamon/lunar/ubuntu_cinnamon_lunar_lobster.jpg
  usr/share/backgrounds/ubuntucinnamon/mantic/ubuntu_cinnamon_mantic_minotaur.jpg
+ usr/share/backgrounds/ubuntucinnamon/noble/ubuntu_cinnamon_noble_numbat.jpg
 Copyright:
  2020 Canonical Ltd.
  2020 Joshua Peisach <itzswirlz2020@outlook.com>
@@ -149,11 +151,13 @@ Files: usr/share/backgrounds/ubuntucinnamon/impish/Huddle_Bay_by_Joshua_Peisach.
  usr/share/backgrounds/ubuntucinnamon/impish/Pond_Sunset_by_Joshua_Peisach.jpg
  usr/share/backgrounds/ubuntucinnamon/impish/Signature_Seagull_by_Joshua_Peisach.jpg
  usr/share/backgrounds/ubuntucinnamon/mantic/Pond_Sunset_by_Joshua_Peisach.jpg
+ usr/share/backgrounds/ubuntucinnamon/noble/Pond_Sunset_by_Joshua_Peisach.jpg
 Copyright: 2021 Joshua Peisach <itzswirlz2020@outlook.com>
 License: CC-BY-SA-3.0
 
 Files: usr/share/backgrounds/ubuntucinnamon/impish/Circle_Of_Life_by_Samuel_Ryklin.jpg
  usr/share/backgrounds/ubuntucinnamon/impish/Rainy_Summer_Days_by_Samuel_Ryklin.jpg
+ usr/share/backgrounds/ubuntucinnamon/noble/Rainy_Summer_Days_by_Samuel_Ryklin.jpg
 Copyright: 2021 Samuel Ryklin
 License: CC-BY-SA-3.0
 
@@ -180,6 +184,7 @@ License: CC-BY-SA-4.0
 
 Files: usr/share/backgrounds/ubuntucinnamon/kinetic/Chuncheon-si-Gangwon-do_Golf_Course_by_Joshua_Park.jpg
  usr/share/backgrounds/ubuntucinnamon/kinetic/Suamgol_Village_by_Joshua_Park.jpg
+ usr/share/backgrounds/ubuntucinnamon/noble/Suamgol_Village_by_Joshua_Park.jpg
 Copyright: 2022 Joshua Park
 License: CC-BY-SA-4.0
 

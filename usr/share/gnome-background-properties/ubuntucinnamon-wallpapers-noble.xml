@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+     <name>Oculus Plaza</name>
+     <filename>/usr/share/backgrounds/ubuntucinnamon/noble/Oculus_Plaza_by_Joshua_Peisach.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+  </wallpaper>
+    <wallpaper>
+    <name>Pond Sunset</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/noble/Pond_Sunset_by_Joshua_Peisach.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+    <wallpaper>
+    <name>Rainy Summer Days</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/noble/Rainy_Summer_Days_by_Samuel_Ryklin.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+    <wallpaper>
+    <name>Suamgol Village</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/noble/Suamgol_Village_by_Joshua_Park.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+   </wallpaper>
+  <wallpaper>
+    <name>Ubuntu Cinnamon 24.04 Noble Numbat</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/noble/ubuntu_cinnamon_noble_numbat.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>
