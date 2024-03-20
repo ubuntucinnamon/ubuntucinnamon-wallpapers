@@ -11,7 +11,7 @@ Homepage: https://ubuntucinnamon.org
 
 Package: ubuntucinnamon-wallpapers
 Architecture: all
-Suggests: ubuntucinnamon-wallpapers-focal
+Suggests: ubuntucinnamon-wallpapers-noble
 Depends: ${misc:Depends}
 Description: Elegant and modern wallpapers for the Ubuntu Cinnamon desktop
  The Ubuntu Cinnamon Wallpapers are elegant, modern wallpapers
