@@ -105,6 +105,7 @@ Files:
  usr/share/backgrounds/ubuntucinnamon/lunar/ubuntu_cinnamon_lunar_lobster.jpg
  usr/share/backgrounds/ubuntucinnamon/mantic/ubuntu_cinnamon_mantic_minotaur.jpg
  usr/share/backgrounds/ubuntucinnamon/noble/ubuntu_cinnamon_noble_numbat.jpg
+ usr/share/backgrounds/ubuntucinnamon/oracular/ubuntu_cinnamon_oracular_oriole.jpg
 Copyright:
  2020 Canonical Ltd.
  2020 Joshua Peisach <itzswirlz2020@outlook.com>
@@ -223,6 +224,17 @@ Files: usr/share/backgrounds/ubuntucinnamon/mantic/Manhattan_Bridge_by_Joshua_Pa
  usr/share/backgrounds/ubuntucinnamon/mantic/Niagara_Falls_by_Joshua_Park.jpg
  usr/share/backgrounds/ubuntucinnamon/mantic/Statue_of_Liberty_by_Joshua_Park.jpg
 Copyright: 2023 Joshua Park
+License: CC-BY-SA-4.0
+
+Files: usr/share/backgrounds/ubuntucinnamon/oracular/Lake_Hopatcong_by_Joshua_Peisach.jpeg
+ usr/share/backgrounds/ubuntucinnamon/oracular/Quiet_Lake_by_Joshua_Peisach.jpeg
+ usr/share/backgrounds/ubuntucinnamon/oracular/Small_Channel_by_Joshua_Peisach.jpg
+Copyright: 2024 Joshua Peisach
+License: CC-BY-SA-4.0
+
+Files: usr/share/backgrounds/ubuntucinnamon/oracular/Herman_Gulch_Trailhead_by_Aaron_Honeycutt.jpeg
+ usr/share/backgrounds/ubuntucinnamon/oracular/Mount_Sniktau_by_Aaron_Honeycutt.jpeg
+Copyright: 2024 Aaron Honeycutt
 License: CC-BY-SA-4.0
 
 LICENSE: CC-BY-SA-3.0

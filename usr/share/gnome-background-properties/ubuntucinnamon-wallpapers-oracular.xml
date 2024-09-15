@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+     <name>Herman Gulch Trailhead</name>
+     <filename>/usr/share/backgrounds/ubuntucinnamon/oracular/Herman_Gulch_Trailhead_by_Aaron_Honeycutt.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+     <name>Lake Hopatcong</name>
+     <filename>/usr/share/backgrounds/ubuntucinnamon/oracular/Lake_Hopatcong_by_Joshua_Peisach.jpeg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+  </wallpaper>
+    <wallpaper>
+    <name>Mount Sniktau</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/oracular/Mount_Sniktau_by_Aaron_Honeycutt.jpeg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+    <wallpaper>
+    <name>Quiet Lake</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/oracular/Quiet_Lake_by_Joshua_Peisach.jpeg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+   </wallpaper>
+   </wallpaper>
+    <wallpaper>
+    <name>Small Channel</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/oracular/Small_Channel_by_Joshua_Peisach.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+   </wallpaper>
+  <wallpaper>
+    <name>Ubuntu Cinnamon 24.10 Oracular Oriole</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/oracular/ubuntu_cinnamon_oracular_oriole.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>
