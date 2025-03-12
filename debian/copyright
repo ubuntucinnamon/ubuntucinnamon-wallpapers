@@ -106,6 +106,9 @@ Files:
  usr/share/backgrounds/ubuntucinnamon/mantic/ubuntu_cinnamon_mantic_minotaur.jpg
  usr/share/backgrounds/ubuntucinnamon/noble/ubuntu_cinnamon_noble_numbat.jpg
  usr/share/backgrounds/ubuntucinnamon/oracular/ubuntu_cinnamon_oracular_oriole.jpg
+ usr/share/backgrounds/ubuntucinnamon/plucky/ubuntu_cinnamon_plucky_puffin.jpg
+ usr/share/backgrounds/ubuntucinnamon/plucky/ubuntu_cinnamon_plucky_puffin_dark.jpg
+ usr/share/backgrounds/ubuntucinnamon/plucky/ubuntu_cinnamon_plucky_puffin_light.jpg
 Copyright:
  2020 Canonical Ltd.
  2020 Joshua Peisach <itzswirlz2020@outlook.com>
@@ -205,6 +208,7 @@ Copyright: 2022 Gilberto Ferreira
 License: CC-BY-SA-4.0
 
 Files: usr/share/backgrounds/ubuntucinnamon/lunar/Beerus_The_Cat_by_Aaron_Prisk.jpg
+ usr/share/backgrounds/ubuntucinnamon/plucky/Beerus_The_Cat_by_Aaron_Prisk.jpg
 Copyright: 2023 Aaron Prisk <aaron.prisk@canonical.com>
 License: CC-BY-SA-4.0
 
@@ -223,12 +227,14 @@ License: CC-BY-SA-4.0
 Files: usr/share/backgrounds/ubuntucinnamon/mantic/Manhattan_Bridge_by_Joshua_Park.jpg
  usr/share/backgrounds/ubuntucinnamon/mantic/Niagara_Falls_by_Joshua_Park.jpg
  usr/share/backgrounds/ubuntucinnamon/mantic/Statue_of_Liberty_by_Joshua_Park.jpg
+ usr/share/backgrounds/ubuntucinnamon/plucky/Manhattan_Bridge_by_Joshua_Park.jpg
 Copyright: 2023 Joshua Park
 License: CC-BY-SA-4.0
 
 Files: usr/share/backgrounds/ubuntucinnamon/oracular/Lake_Hopatcong_by_Joshua_Peisach.jpeg
  usr/share/backgrounds/ubuntucinnamon/oracular/Quiet_Lake_by_Joshua_Peisach.jpeg
  usr/share/backgrounds/ubuntucinnamon/oracular/Small_Channel_by_Joshua_Peisach.jpg
+ usr/share/backgrounds/ubuntucinnamon/plucky/Aurora_Borealis_by_Joshua_Peisach.jpg
 Copyright: 2024 Joshua Peisach
 License: CC-BY-SA-4.0
 
