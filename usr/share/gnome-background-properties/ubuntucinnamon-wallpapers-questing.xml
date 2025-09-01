@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+<wallpaper>
+    <name>Beautiful Nature</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/questing/Beautiful_Nature_by_Erikku_Sato.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Cinnamon Quokka</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/questing/Cinnamon_Quokka.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Cinnamon Quokka Bright</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/questing/Cinnamon_Quokka_Bright.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Cinnamon Quokka Dimmed</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/questing/Cinnamon_Quokka_Dimmed.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Lake Lookout</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/questing/Lake_Lookout_by_Joshua_Peisach.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Side Road</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/questing/Side_Road_by_Joshua_Peisach.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>The Big Apple</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/questing/The_Big_Apple_by_Joshua_Peisach.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Ubuntu Cinnamon 25.10 Questing Quokka</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/questing/ubuntu_cinnamon_questing_quokka.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Ubuntu Cinnamon 25.04 Questing Quokka Bright</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/questing/ubuntu_cinnamon_questing_quokka_bright.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Ubuntu Cinnamon 25.04 Questing Quokka Light</name>
+    <filename>/usr/share/backgrounds/ubuntucinnamon/questing/ubuntu_cinnamon_questing_quokka_light.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>

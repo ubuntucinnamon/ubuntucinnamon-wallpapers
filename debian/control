@@ -152,3 +152,14 @@ Description: Elegant and modern wallpapers for the Ubuntu Cinnamon desktop (25.0
  desktop, whether you are running it for its purpose, Ubuntu Cinnamon
  or just for the elegance and fun. This is part of the ubuntucinnamon-artwork
  package and should be applicable to almost every desktop.
+
+Package: ubuntucinnamon-wallpapers-questing
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: ubuntucinnamon-wallpapers
+Description: Elegant and modern wallpapers for the Ubuntu Cinnamon desktop (25.10 release)
+ The Ubuntu Cinnamon 25.10 Questing Quokka Wallpapers are elegant, modern
+ wallpapers that are easily able to fit the needs for your perfect
+ desktop, whether you are running it for its purpose, Ubuntu Cinnamon
+ or just for the elegance and fun. This is part of the ubuntucinnamon-artwork
+ package and should be applicable to almost every desktop.
