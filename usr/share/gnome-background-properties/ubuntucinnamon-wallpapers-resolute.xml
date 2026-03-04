@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper>
+        <name>Ubuntu Cinnamon 26.04 Resolute Raccoon</name>
+        <filename>/usr/share/backgrounds/ubuntucinnamon/resolute/ubuntu_cinnamon_resolute_raccoon.png</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper>
+        <name>Ubuntu Cinnamon 26.04 Resolute Raccoon Bright</name>
+        <filename>/usr/share/backgrounds/ubuntucinnamon/resolute/ubuntu_cinnamon_resolute_raccoon_bright.png</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper>
+        <name>Ubuntu Cinnamon 26.04 Resolute Raccoon Dark</name>
+        <filename>/usr/share/backgrounds/ubuntucinnamon/resolute/ubuntu_cinnamon_resolute_raccoon_dark.png</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper>
+        <name>Ubuntu Cinnamon 26.04 Resolute Raccoon Dimmed</name>
+        <filename>/usr/share/backgrounds/ubuntucinnamon/resolute/ubuntu_cinnamon_resolute_raccoon_dimmed.png</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+</wallpapers>

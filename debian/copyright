@@ -115,6 +115,10 @@ Files:
  usr/share/backgrounds/ubuntucinnamon/questing/ubuntu_cinnamon_questing_quokka.jpg
  usr/share/backgrounds/ubuntucinnamon/questing/ubuntu_cinnamon_questing_quokka_bright.jpg
  usr/share/backgrounds/ubuntucinnamon/questing/ubuntu_cinnamon_questing_quokka_light.jpg
+ usr/share/backgrounds/ubuntucinnamon/resolute/ubuntu_cinnamon_resolute_raccoon.png
+ usr/share/backgrounds/ubuntucinnamon/resolute/ubuntu_cinnamon_resolute_raccoon_bright.png
+ usr/share/backgrounds/ubuntucinnamon/resolute/ubuntu_cinnamon_resolute_raccoon_dark.png
+ usr/share/backgrounds/ubuntucinnamon/resolute/ubuntu_cinnamon_resolute_raccoon_dimmed.png
 Copyright:Copyright:
  2020 Canonical Ltd.
  2020 Joshua Peisach <itzswirlz2020@outlook.com>
