@@ -2,6 +2,62 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
     <wallpaper>
+        <name>Aurora Borealis</name>
+        <filename>/usr/share/backgrounds/ubuntucinnamon/resolute/Aurora_Borealis_by_Joshua_Peisach.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper>
+        <name>Beautiful Nature</name>
+        <filename>/usr/share/backgrounds/ubuntucinnamon/resolute/Beautiful_Nature_by_Erikku_Sato.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper>
+      <name>Beerus The Cat</name>
+      <filename>/usr/share/backgrounds/ubuntucinnamon/resolute/Beerus_The_Cat_by_Aaron_Prisk.jpg</filename>
+      <options>zoom</options>
+      <pcolor>#000000</pcolor>
+      <scolor>#000000</scolor>
+      <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper>
+      <name>Campgaw Mountain</name>
+      <filename>/usr/share/backgrounds/ubuntucinnamon/resolute/Campgaw_Mountain_by_Joshua_Peisach.jpg</filename>
+      <options>zoom</options>
+      <pcolor>#000000</pcolor>
+      <scolor>#000000</scolor>
+      <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper>
+      <name>Frozen River</name>
+      <filename>/usr/share/backgrounds/ubuntucinnamon/resolute/Frozen_River_by_Joshua_Peisach.jpg</filename>
+      <options>zoom</options>
+      <pcolor>#000000</pcolor>
+      <scolor>#000000</scolor>
+      <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper>
+      <name>Manhattan Bridge</name>
+      <filename>/usr/share/backgrounds/ubuntucinnamon/resolute/Manhattan_Bridge_by_Joshua_Park.jpg</filename>
+      <options>zoom</options>
+      <pcolor>#000000</pcolor>
+      <scolor>#000000</scolor>
+      <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper>
+        <name>Mount Sniktau</name>
+        <filename>/usr/share/backgrounds/ubuntucinnamon/resolute/Mount_Sniktau_by_Aaron_Honeycutt.jpeg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper>
         <name>Ubuntu Cinnamon 26.04 Resolute Raccoon</name>
         <filename>/usr/share/backgrounds/ubuntucinnamon/resolute/ubuntu_cinnamon_resolute_raccoon.png</filename>
         <options>zoom</options>
