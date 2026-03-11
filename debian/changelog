@@ -1,3 +1,10 @@
+ubuntucinnamon-wallpapers (26.04.2) resolute; urgency=medium
+
+  * Import the rest of the resolute wallpapers
+  * Update copyright
+
+ -- Joshua Peisach <jpeisach@ubuntu.com>  Tue, 10 Mar 2026 20:44:05 -0400
+
 ubuntucinnamon-wallpapers (26.04.1) resolute; urgency=medium
 
   * Import resolute main theme wallpapers
