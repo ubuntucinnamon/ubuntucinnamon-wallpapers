@@ -219,6 +219,7 @@ License: CC-BY-SA-4.0
 
 Files: usr/share/backgrounds/ubuntucinnamon/lunar/Beerus_The_Cat_by_Aaron_Prisk.jpg
  usr/share/backgrounds/ubuntucinnamon/plucky/Beerus_The_Cat_by_Aaron_Prisk.jpg
+ usr/share/backgrounds/ubuntucinnamon/resolute/Beerus_The_Cat_by_Aaron_Prisk.jpg
 Copyright: 2023 Aaron Prisk <aaron.prisk@canonical.com>
 License: CC-BY-SA-4.0
 
@@ -238,6 +239,7 @@ Files: usr/share/backgrounds/ubuntucinnamon/mantic/Manhattan_Bridge_by_Joshua_Pa
  usr/share/backgrounds/ubuntucinnamon/mantic/Niagara_Falls_by_Joshua_Park.jpg
  usr/share/backgrounds/ubuntucinnamon/mantic/Statue_of_Liberty_by_Joshua_Park.jpg
  usr/share/backgrounds/ubuntucinnamon/plucky/Manhattan_Bridge_by_Joshua_Park.jpg
+ usr/share/backgrounds/ubuntucinnamon/resolute/Manhattan_Bridge_by_Joshua_Park.jpg
 Copyright: 2023 Joshua Park
 License: CC-BY-SA-4.0
 
@@ -245,15 +247,18 @@ Files: usr/share/backgrounds/ubuntucinnamon/oracular/Lake_Hopatcong_by_Joshua_Pe
  usr/share/backgrounds/ubuntucinnamon/oracular/Quiet_Lake_by_Joshua_Peisach.jpeg
  usr/share/backgrounds/ubuntucinnamon/oracular/Small_Channel_by_Joshua_Peisach.jpg
  usr/share/backgrounds/ubuntucinnamon/plucky/Aurora_Borealis_by_Joshua_Peisach.jpg
+ usr/share/backgrounds/ubuntucinnamon/resolute/Aurora_Borealis_by_Joshua_Peisach.jpg
 Copyright: 2024 Joshua Peisach
 License: CC-BY-SA-4.0
 
 Files: usr/share/backgrounds/ubuntucinnamon/oracular/Herman_Gulch_Trailhead_by_Aaron_Honeycutt.jpg
  usr/share/backgrounds/ubuntucinnamon/oracular/Mount_Sniktau_by_Aaron_Honeycutt.jpeg
+ usr/share/backgrounds/ubuntucinnamon/resolute/Mount_Sniktau_by_Aaron_Honeycutt.jpeg
 Copyright: 2024 Aaron Honeycutt
 License: CC-BY-SA-4.0
 
 Files: usr/share/backgrounds/ubuntucinnamon/questing/Beautiful_Nature_by_Erikku_Sato.jpg
+ usr/share/backgrounds/ubuntucinnamon/resolute/Beautiful_Nature_by_Erikku_Sato.jpg
 Copyright: 2025 Erikku Sato <bomboclath048@gmail.com>
 License: CC-BY-SA-4.0
 
@@ -261,6 +266,11 @@ Files: usr/share/backgrounds/ubuntucinnamon/questing/Lake_Lookout_by_Joshua_Peis
  usr/share/backgrounds/ubuntucinnamon/questing/Side_Road_by_Joshua_Peisach.jpg
  usr/share/backgrounds/ubuntucinnamon/questing/The_Big_Apple_by_Joshua_Peisach.jpg
 Copyright: 2025 Joshua Peisach <jpeisach@ubuntu.com>
+License: CC-BY-SA-4.0
+
+Files: usr/share/backgrounds/ubuntucinnamon/resolute/Campgaw_Mountain_by_Joshua_Peisach.jpg
+ usr/share/backgrounds/ubuntucinnamon/resolute/Frozen_River_by_Joshua_Peisach.jpg
+Copyright: 2026 Joshua Peisach <jpeisach@ubuntu.com>
 License: CC-BY-SA-4.0
 
 LICENSE: CC-BY-SA-3.0
